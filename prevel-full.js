@@ -493,6 +493,8 @@
         headers();
         Request.send(n);
       }
+	  
+	  return Request;
     }
   });
   
